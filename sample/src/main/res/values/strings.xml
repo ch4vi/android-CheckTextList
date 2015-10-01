@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="item_selected_title">Selected item:</string>
+    <string name="item_no_selected">0 items selected</string>
+
+</resources>

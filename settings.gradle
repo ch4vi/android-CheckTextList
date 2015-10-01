@@ -1,1 +1,1 @@
-include ':app', ':checktextlist'
+include ':sample', ':checktextlist'
