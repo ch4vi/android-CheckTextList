@@ -6,6 +6,9 @@ as another View in your layout.
 CheckTextList has a callback (Optional) called onClick on each item and it receives a list of selected items.
 There are two types of control, SINGLE and MULTI, which allow you to select only one item or more on the same list.
 
+<img src="https://github.com/ch4vi/android-CheckTextList/blob/master/screenshots/fragment.png" width="270" style="margin-right:10px;">
+<img src="https://github.com/ch4vi/android-CheckTextList/blob/master/screenshots/dialog.png" width="270">
+
 CheckTextList can be used with Android API 16 and above.
 
 *Setup*
