@@ -14,7 +14,16 @@ CheckTextList can be used with Android API 16 and above.
 *Setup*
 ======
 
-Working on it
+**For Android Studio user**: add `compile 'com.github.ch4vi:CheckTextList:1.0.0'` to your gradle build file.
+
+**For Maven user**:
+```
+<dependency>
+    <groupId>com.github.ch4vi</groupId>
+    <artifactId>CheckTextList</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 
 *Features*
 ======
